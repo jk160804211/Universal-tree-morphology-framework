@@ -9,5 +9,5 @@ Core code for artical "<em> Universal tree morphology framework with a spherical
 The confusion matrix for tree species identification on FOR-species 20K dataset is as follows:
 ![](https://github.com/jk160804211/Universal-tree-morphology-framework/blob/main/text849.png)
 
-The geometric feature calculated by our method on  FOR-species 20K dataset is as follows:
+The geometric feature calculated by our method is as follows:
 ![](https://github.com/jk160804211/Universal-tree-morphology-framework/blob/main/g79.png)
