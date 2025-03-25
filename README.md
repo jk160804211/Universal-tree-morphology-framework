@@ -6,4 +6,4 @@ Core code for our artical "<em> Universal tree morphology framework with a spher
   <li> The minimum dataset required for replicating this code is available at ... </li>
 </ol>
 
-The confusion matrix for tree species identification on FOR-species 20K dataset is as follows:
+![The confusion matrix for tree species identification on FOR-species 20K dataset is as follows:](/assets/img/philly-magic-garden.jpg "Magic Gardens")
