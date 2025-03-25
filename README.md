@@ -3,7 +3,7 @@ Core code for our artical "<em> Universal tree morphology framework with a spher
 <ol>
   <li>Matlab code includes Individual tree segementation alogrithm from ALS and TLS point clouds</li>
   <li>Python code includes geometric feature calculation, deep learning network construction proposed in our research paper, and the best model parameters used for 33 tree species identification on the public dataset FOR-species 20K, achieving an accuracy of 85.3%.</li>
-  <li>Dataset is avaliable on https://doi.org/10.5281/zenodo.15085228 (Experimental dataset for vaious forest landscapes) and https://doi.org/10.5281/zenodo.13255198 (FOR-species 20K)</li>
+  <li>Datasets are avaliable on https://doi.org/10.5281/zenodo.15085228 (Experimental dataset for vaious forest landscapes) and https://doi.org/10.5281/zenodo.13255198 (FOR-species 20K)</li>
 </ol>
 
 The confusion matrix for tree species identification on FOR-species 20K dataset is as follows:
