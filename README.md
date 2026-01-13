@@ -10,4 +10,4 @@ The confusion matrix for tree species identification on FOR-species 20K dataset 
 ![](https://github.com/jk160804211/Universal-tree-morphology-framework/blob/main/text849.png)
 
 The geometric features calculated by our method are as follows:
-![](https://github.com/jk160804211/Universal-tree-morphology-framework/blob/main/g79.png)
+![](https://github.com/jk160804211/Universal-tree-morphology-framework/blob/main/feature.jpg)
